@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: black;
+  font-size: 35px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+
+a {
+  color: black;
+  font-family: verdana;
+  font-size: 20px
+}
